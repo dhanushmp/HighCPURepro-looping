@@ -13,10 +13,11 @@ namespace High_CPU.Controllers
         public IActionResult CreateValue([FromBody] HighCPUdetails HighCPU)
         {
             string name  = HighCPU.Value;
+            var nloop = HighCPU.numberloop;
             int count = 0;
             if (name != null)
             {
-                for (int i = 0; i < 20000; i++)
+                for (int i = 0; i < nloop ; i++)
                 {
                    name += "Mindtree";
                     count++;
