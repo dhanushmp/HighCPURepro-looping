@@ -1,33 +1,66 @@
-C:\Users\USER\OneDrive\Desktop\High CPU\bin\Debug\net8.0\appsettings.Development.json
-C:\Users\USER\OneDrive\Desktop\High CPU\bin\Debug\net8.0\appsettings.json
-C:\Users\USER\OneDrive\Desktop\High CPU\bin\Debug\net8.0\High CPU.exe
-C:\Users\USER\OneDrive\Desktop\High CPU\bin\Debug\net8.0\High CPU.deps.json
-C:\Users\USER\OneDrive\Desktop\High CPU\bin\Debug\net8.0\High CPU.runtimeconfig.json
-C:\Users\USER\OneDrive\Desktop\High CPU\bin\Debug\net8.0\High CPU.dll
-C:\Users\USER\OneDrive\Desktop\High CPU\bin\Debug\net8.0\High CPU.pdb
-C:\Users\USER\OneDrive\Desktop\High CPU\bin\Debug\net8.0\Microsoft.OpenApi.dll
-C:\Users\USER\OneDrive\Desktop\High CPU\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\USER\OneDrive\Desktop\High CPU\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\USER\OneDrive\Desktop\High CPU\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\USER\OneDrive\Desktop\High CPU\obj\Debug\net8.0\High CPU.csproj.AssemblyReference.cache
-C:\Users\USER\OneDrive\Desktop\High CPU\obj\Debug\net8.0\High CPU.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\USER\OneDrive\Desktop\High CPU\obj\Debug\net8.0\High CPU.AssemblyInfoInputs.cache
-C:\Users\USER\OneDrive\Desktop\High CPU\obj\Debug\net8.0\High CPU.AssemblyInfo.cs
-C:\Users\USER\OneDrive\Desktop\High CPU\obj\Debug\net8.0\High CPU.csproj.CoreCompileInputs.cache
-C:\Users\USER\OneDrive\Desktop\High CPU\obj\Debug\net8.0\High CPU.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\USER\OneDrive\Desktop\High CPU\obj\Debug\net8.0\High CPU.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\USER\OneDrive\Desktop\High CPU\obj\Debug\net8.0\High CPU.sourcelink.json
-C:\Users\USER\OneDrive\Desktop\High CPU\obj\Debug\net8.0\staticwebassets.build.json
-C:\Users\USER\OneDrive\Desktop\High CPU\obj\Debug\net8.0\staticwebassets.development.json
-C:\Users\USER\OneDrive\Desktop\High CPU\obj\Debug\net8.0\staticwebassets\msbuild.High CPU.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\USER\OneDrive\Desktop\High CPU\obj\Debug\net8.0\staticwebassets\msbuild.build.High CPU.props
-C:\Users\USER\OneDrive\Desktop\High CPU\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.High CPU.props
-C:\Users\USER\OneDrive\Desktop\High CPU\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.High CPU.props
-C:\Users\USER\OneDrive\Desktop\High CPU\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\USER\OneDrive\Desktop\High CPU\obj\Debug\net8.0\scopedcss\bundle\High CPU.styles.css
-C:\Users\USER\OneDrive\Desktop\High CPU\obj\Debug\net8.0\High CPU.csproj.Up2Date
-C:\Users\USER\OneDrive\Desktop\High CPU\obj\Debug\net8.0\High CPU.dll
-C:\Users\USER\OneDrive\Desktop\High CPU\obj\Debug\net8.0\refint\High CPU.dll
-C:\Users\USER\OneDrive\Desktop\High CPU\obj\Debug\net8.0\High CPU.pdb
-C:\Users\USER\OneDrive\Desktop\High CPU\obj\Debug\net8.0\High CPU.genruntimeconfig.cache
-C:\Users\USER\OneDrive\Desktop\High CPU\obj\Debug\net8.0\ref\High CPU.dll
+C:/Users/USER/OneDrive/Desktop/High CPU/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/USER/OneDrive/Desktop/High CPU/bin/Debug/net8.0/appsettings.json
+C:/Users/USER/OneDrive/Desktop/High CPU/bin/Debug/net8.0/High CPU.exe
+C:/Users/USER/OneDrive/Desktop/High CPU/bin/Debug/net8.0/High CPU.deps.json
+C:/Users/USER/OneDrive/Desktop/High CPU/bin/Debug/net8.0/High CPU.runtimeconfig.json
+C:/Users/USER/OneDrive/Desktop/High CPU/bin/Debug/net8.0/High CPU.dll
+C:/Users/USER/OneDrive/Desktop/High CPU/bin/Debug/net8.0/High CPU.pdb
+C:/Users/USER/OneDrive/Desktop/High CPU/bin/Debug/net8.0/Microsoft.OpenApi.dll
+C:/Users/USER/OneDrive/Desktop/High CPU/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/USER/OneDrive/Desktop/High CPU/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/USER/OneDrive/Desktop/High CPU/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/USER/OneDrive/Desktop/High CPU/obj/Debug/net8.0/High CPU.csproj.AssemblyReference.cache
+C:/Users/USER/OneDrive/Desktop/High CPU/obj/Debug/net8.0/High CPU.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/USER/OneDrive/Desktop/High CPU/obj/Debug/net8.0/High CPU.AssemblyInfoInputs.cache
+C:/Users/USER/OneDrive/Desktop/High CPU/obj/Debug/net8.0/High CPU.AssemblyInfo.cs
+C:/Users/USER/OneDrive/Desktop/High CPU/obj/Debug/net8.0/High CPU.csproj.CoreCompileInputs.cache
+C:/Users/USER/OneDrive/Desktop/High CPU/obj/Debug/net8.0/High CPU.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/USER/OneDrive/Desktop/High CPU/obj/Debug/net8.0/High CPU.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/USER/OneDrive/Desktop/High CPU/obj/Debug/net8.0/High CPU.sourcelink.json
+C:/Users/USER/OneDrive/Desktop/High CPU/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/USER/OneDrive/Desktop/High CPU/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/USER/OneDrive/Desktop/High CPU/obj/Debug/net8.0/staticwebassets/msbuild.High CPU.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/USER/OneDrive/Desktop/High CPU/obj/Debug/net8.0/staticwebassets/msbuild.build.High CPU.props
+C:/Users/USER/OneDrive/Desktop/High CPU/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.High CPU.props
+C:/Users/USER/OneDrive/Desktop/High CPU/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.High CPU.props
+C:/Users/USER/OneDrive/Desktop/High CPU/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/USER/OneDrive/Desktop/High CPU/obj/Debug/net8.0/scopedcss/bundle/High CPU.styles.css
+C:/Users/USER/OneDrive/Desktop/High CPU/obj/Debug/net8.0/High CPU.csproj.Up2Date
+C:/Users/USER/OneDrive/Desktop/High CPU/obj/Debug/net8.0/High CPU.dll
+C:/Users/USER/OneDrive/Desktop/High CPU/obj/Debug/net8.0/refint/High CPU.dll
+C:/Users/USER/OneDrive/Desktop/High CPU/obj/Debug/net8.0/High CPU.pdb
+C:/Users/USER/OneDrive/Desktop/High CPU/obj/Debug/net8.0/High CPU.genruntimeconfig.cache
+C:/Users/USER/OneDrive/Desktop/High CPU/obj/Debug/net8.0/ref/High CPU.dll
+/workspaces/HighCPURepro-looping/bin/Debug/net8.0/appsettings.Development.json
+/workspaces/HighCPURepro-looping/bin/Debug/net8.0/appsettings.json
+/workspaces/HighCPURepro-looping/bin/Debug/net8.0/High CPU
+/workspaces/HighCPURepro-looping/bin/Debug/net8.0/High CPU.deps.json
+/workspaces/HighCPURepro-looping/bin/Debug/net8.0/High CPU.runtimeconfig.json
+/workspaces/HighCPURepro-looping/bin/Debug/net8.0/High CPU.dll
+/workspaces/HighCPURepro-looping/bin/Debug/net8.0/High CPU.pdb
+/workspaces/HighCPURepro-looping/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/workspaces/HighCPURepro-looping/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/workspaces/HighCPURepro-looping/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/workspaces/HighCPURepro-looping/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/workspaces/HighCPURepro-looping/obj/Debug/net8.0/High CPU.csproj.AssemblyReference.cache
+/workspaces/HighCPURepro-looping/obj/Debug/net8.0/High CPU.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/HighCPURepro-looping/obj/Debug/net8.0/High CPU.AssemblyInfoInputs.cache
+/workspaces/HighCPURepro-looping/obj/Debug/net8.0/High CPU.AssemblyInfo.cs
+/workspaces/HighCPURepro-looping/obj/Debug/net8.0/High CPU.csproj.CoreCompileInputs.cache
+/workspaces/HighCPURepro-looping/obj/Debug/net8.0/High CPU.MvcApplicationPartsAssemblyInfo.cs
+/workspaces/HighCPURepro-looping/obj/Debug/net8.0/High CPU.MvcApplicationPartsAssemblyInfo.cache
+/workspaces/HighCPURepro-looping/obj/Debug/net8.0/High CPU.sourcelink.json
+/workspaces/HighCPURepro-looping/obj/Debug/net8.0/staticwebassets.build.json
+/workspaces/HighCPURepro-looping/obj/Debug/net8.0/staticwebassets.development.json
+/workspaces/HighCPURepro-looping/obj/Debug/net8.0/staticwebassets/msbuild.High CPU.Microsoft.AspNetCore.StaticWebAssets.props
+/workspaces/HighCPURepro-looping/obj/Debug/net8.0/staticwebassets/msbuild.build.High CPU.props
+/workspaces/HighCPURepro-looping/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.High CPU.props
+/workspaces/HighCPURepro-looping/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.High CPU.props
+/workspaces/HighCPURepro-looping/obj/Debug/net8.0/staticwebassets.pack.json
+/workspaces/HighCPURepro-looping/obj/Debug/net8.0/scopedcss/bundle/High CPU.styles.css
+/workspaces/HighCPURepro-looping/obj/Debug/net8.0/High CPU.csproj.Up2Date
+/workspaces/HighCPURepro-looping/obj/Debug/net8.0/High CPU.dll
+/workspaces/HighCPURepro-looping/obj/Debug/net8.0/refint/High CPU.dll
+/workspaces/HighCPURepro-looping/obj/Debug/net8.0/High CPU.pdb
+/workspaces/HighCPURepro-looping/obj/Debug/net8.0/High CPU.genruntimeconfig.cache
+/workspaces/HighCPURepro-looping/obj/Debug/net8.0/ref/High CPU.dll
