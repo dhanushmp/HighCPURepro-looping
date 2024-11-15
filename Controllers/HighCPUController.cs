@@ -16,7 +16,7 @@ namespace High_CPU.Controllers
             int count = 0;
             if (name != null)
             {
-                for (int i = 0; i < 6000; i++)
+                for (int i = 0; i < 20000; i++)
                 {
                    name += "Mindtree";
                     count++;
