@@ -28,7 +28,7 @@ app.Use(async (context, next) =>
 {
     if (context.Request.Path == "/")
     {
-        context.Response.Redirect("/swagger/index.html");
+        context.Response.Redirect("https://highcpuwebappwindows.azurewebsites.net/api/HighCPU");
         return;
     }
 
