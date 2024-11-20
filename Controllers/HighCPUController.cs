@@ -19,8 +19,8 @@ namespace High_CPU.Controllers
             {
                 for (int i = 0; i < nloop ; i++)
                 {
-                   Console.WriteLine(name);
-                    count++;
+                   name += "Mindtree"
+                
                 }
                 
 
