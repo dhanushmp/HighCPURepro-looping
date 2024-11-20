@@ -19,7 +19,7 @@ namespace High_CPU.Controllers
             {
                 for (int i = 0; i < nloop ; i++)
                 {
-                   name += "Mindtree"
+                   name += "Mindtree";
                 
                 }
                 
